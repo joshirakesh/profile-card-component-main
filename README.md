@@ -86,3 +86,4 @@ This challenge is completely free. Please share it with anyone who will find it 
 
 **Have fun building!** 🚀
 **Happy Coding!!** 💯🎉
+**I am working on building a habit of making one commit every day until it becomes second nature to me.** ✅
